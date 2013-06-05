@@ -1,0 +1,6 @@
+Mcollective module for Jboss AS 7
+=================================
+
+Manage Jboss AS 7 instances and app deployments in domain mode.
+
+Fork from the jboss module for Kermit - http://www.kermit.fr
